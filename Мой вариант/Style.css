@@ -1,0 +1,57 @@
+.page {
+      margin-left:auto;
+    margin-right:auto;
+border-style: double;
+min-width: 600px;
+max-width: 2000px;
+
+
+}
+
+
+body {
+    text-align: center;
+}
+
+ul {
+    width: 570px;
+text-transform:uppercase;
+list-style-type: none;
+margin-left:auto;
+margin-right:auto;
+
+}
+li {
+    display:inline;
+padding: 30px;
+
+}
+
+a{
+    text-decoration:none;
+}
+
+.header {
+    width: 900px;
+    
+    margin-left:auto;
+    margin-right:auto;
+    border-top-style: solid;
+border-top-width: 2px;
+border-top-color:blue;
+
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color:blue;
+}
+
+
+.image {margin-top: 20px;
+
+}
+
+p {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+}
